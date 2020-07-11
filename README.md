@@ -1,2 +1,2 @@
-"# FirstProject" 
-A Python-3 program which converts PDF file into text file. 
+
+A Python-3 Program which extract data from PDF file and print the extracted text data on Terminal Screen.
